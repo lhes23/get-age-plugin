@@ -2,8 +2,8 @@
 /*
 Plugin Name: get-age-plugin
 Plugin URI: 
-Description: Adds a shortcode to calculate age.
-Version: 1.0
+Description: Adds a shortcode to calculate age. Usage: [get_age year="YYYY" month="MM" day="DD"]
+Version: 1.1
 Author: Lester Reandino
 Author URI: 
 License: GPLv2 or later
